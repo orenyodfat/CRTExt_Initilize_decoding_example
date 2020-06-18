@@ -1,4 +1,4 @@
-# abidecoder_test
+# ContributionRewardExt initilize function decoding example using abidecoder lib
 
 npm i
 
